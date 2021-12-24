@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MichaelSeyedian
-- 👀 I’m interested in becoming a Back-End Developer.
-- 🌱 I’m currently learning BE Engineering at [Turing School of Software & Design](https://turing.edu/).
+- 👀 I’m determined to become a professional Back-End Dev.
+- 🌱 I’m currently enrolled in [Turing School of Software & Design](https://turing.edu/).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
