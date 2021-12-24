@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MichaelSeyedian
 - 👀 I’m determined to become a professional Back-End Dev.
 - 🌱 I’m currently enrolled in [Turing School of Software & Design](https://turing.edu/).
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Ruby/Rails projects.
 - 📫 How to reach me ...
 
 <!---
